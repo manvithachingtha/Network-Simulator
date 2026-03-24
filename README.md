@@ -14,7 +14,7 @@ network_simulator/
 ├── physical_layer.py
 ├── data_link.py
 ├── protocols.py
-└── run_simulator.py   # main entry point
+└── main.py   # main entry point
 
 ## How to Run
 1. Install Python 3.8 or higher.
