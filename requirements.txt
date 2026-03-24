@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Python version
+python>=3.8
+
+# No external libraries are needed for this project.
+# The simulator uses only built-in Python modules.
